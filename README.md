@@ -131,10 +131,4 @@ Simulate risk scores locally without any API call. Adjust parameters with slider
 
 ---
 
-## Without a Groq API Key
-
-The system still works fully — it falls back to rule-based analysis using the risk engine directly. The `explanation` field will say `"Fallback analysis: ..."` instead of an LLM-generated explanation. All risk scoring and decision logic runs identically.
-
----
-
 *Built as an autonomous AI agent for finance exception management.*
