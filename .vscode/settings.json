@@ -1,0 +1,4 @@
+{
+    "python.defaultInterpreterPath": "D:/TASK-3C/venv/Scripts/python.exe",
+    "python.analysis.extraPaths": ["D:/TASK-3C/finance-agent"]
+}
