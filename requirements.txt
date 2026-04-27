@@ -5,3 +5,6 @@ python-dotenv
 scikit-learn
 httpx
 groq
+pymupdf
+streamlit
+pandas
